@@ -31,7 +31,6 @@ Welcome to my GitHub profile! I'm a passionate programmer, tech enthusiast, and 
 
 
 
----
 
 ## 📫 How to Reach Me
 - **Email:** durgeshpanwar8718@gmail.com
